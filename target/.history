@@ -1,0 +1,24 @@
+clean
+build
+start
+run
+idea withsource=yes
+ idea with-sources=yes
+debug
+play debug
+run
+debug
+play idea
+idea
+debug
+help
+play debug
+play run
+help debug
+help run
+exit
+run
+exit
+run 9443
+sbt compile
+exit
